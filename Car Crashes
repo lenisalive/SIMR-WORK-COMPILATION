@@ -1,0 +1,6 @@
+https://drive.google.com/drive/folders/1AhhNsOO986xR85z_VbhXtC3xH6QhmrM9?usp=sharing
+^^
+Above is the drive that contains all my models and data cleansing for my car crashes project.
+The extra repeat CSVs are from data cleaning and dummy variable creation.
+The 2 IPYNB files have a majority of the data sorting and cleansing code as well as some analysis.
+There are various PKL files that contain the different models I applied.
